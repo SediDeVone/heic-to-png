@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs / Reports
+*.log
+logs/
+
+# Build / Dist
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Images output
+data/*.png
+
+# Local tooling
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+.coverage*
