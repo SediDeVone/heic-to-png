@@ -43,3 +43,5 @@ data/*.png
 .pytest_cache/
 coverage.xml
 .coverage*
+data/
+.junie/
